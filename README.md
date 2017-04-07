@@ -1,6 +1,6 @@
 # Jeu d'échec en utilisant CATIA et VBA
 
-Jeu d'echec 3D fonctionnel crée en utilisant CATIA V5 et VBA dans le cadre du cours PLM - Maquette Numérique de l'Ecole Centrale Lyon année scolaire 2016-2017. 
+Jeu d'echec 3D fonctionnel crée en utilisant CATIA V5 et VBA dans le cadre du cours PLM - Maquette Numérique de l'Ecole Centrale Lyon année scolaire 2016-2017. Pour une description plus détaillé de la logique utilisé et la construction des pièces, veuillez regarder le rapport aussi dans le dossier de cette page.
 
 ### Preréquis
 
